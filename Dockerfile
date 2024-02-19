@@ -34,7 +34,7 @@ WORKDIR /srv/jekyll
 
 RUN bundle install --no-cache
 
-RUN bundle add webrick
+# RUN bundle add webrick
 
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: raoak at stanford dot edu
+subtitle:
 
 profile:
   align: right

@@ -11,20 +11,22 @@
   contents:
     - title: PhD
       institution: Stanford University, California, US
-      year: 2022 - *present*
+      year: *2026*
       description:
         - Environmental Engineering
-        - title : Thesis - 
+        - title : Thesis
           contents:
           - "Enabling desalination load flexibility through optimization."
+  
     - title: MS
       institution: Purdue University, Indiana, US
       year: 2022
       description:
         - Mechanical Engineering and Computational Science
-        - title : Thesis - 
+        - title : Thesis 
           contents:
           - "Thermodynamic limits of obtaining water: On Earth and beyond"
+  
     - title: BS
       institution: Purdue University, Indiana, US
       year: 2020

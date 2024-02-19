@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Akshay
 middle_name: K.
 last_name: Rao
-email: akshayr135@gmail.com
+email: blank # your email address (will be obfuscated in the HTML source)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   An academic website detailing the research works of Akshay K. Rao. Formatting is based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
